@@ -1,0 +1,11 @@
+tqdm
+progress
+pretty-midi
+pypianoroll
+matplotlib
+librosa
+scipy
+pillow
+midi2audio
+mir_eval
+tensorflow
